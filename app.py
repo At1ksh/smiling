@@ -1,4 +1,4 @@
-import cv2
+
 import streamlit as st
 import numpy as np
 import tempfile
@@ -7,6 +7,7 @@ from PIL import Image
 from ultralytics import YOLO
 import tensorflow as tf
 import requests
+import cv2
 
 # === CONFIG ===
 model_url="https://drive.google.com/uc?export=download&id=1JtUOuZrTLrF0lh6fulSQirwfguxAsKwx"
