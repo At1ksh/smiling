@@ -1,10 +1,6 @@
-import ultralytics
-import PILLOW
-import streamlit as st
-import numpy as np
-import cv2
-import tempfile
-import os
-from PIL import Image
-from ultralytics import YOLO
-import tensorflow as tf
+ultralytics
+PILLOW
+streamlit
+numpy
+opencv-python
+tensorflow
