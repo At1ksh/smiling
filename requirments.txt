@@ -1,6 +1,6 @@
+opencv-python
 ultralytics
 PILLOW
 streamlit
 numpy
-opencv-python
 tensorflow
