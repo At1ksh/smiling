@@ -1,6 +1,6 @@
-opencv-python-headless
 ultralytics
 PILLOW
 streamlit
 numpy
 tensorflow
+opencv-python-headless
